@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm RANJEET KUMAR</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<img src = "banner.jpg"
+        alt = "TofuPicture"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuuydv&label=Profile%20views&color=0e75b6&style=flat" alt="ashuuydv" /> </p>
 <h2>About :
