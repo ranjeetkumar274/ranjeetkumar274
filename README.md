@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RANJEET KUMAR</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 <img src = "banner.jpg"
         alt = "TofuPicture"/>
 
