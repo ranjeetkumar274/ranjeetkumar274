@@ -2,16 +2,24 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuuydv&label=Profile%20views&color=0e75b6&style=flat" alt="ashuuydv" /> </p>
+<h2>About :
+</h2>
+
+- 🔭 I am pursuing masters in Computer Application (MCA) from MMMUT Gorakhpur.
+
+- 🔭 I am really passionate about Web Developement and JAVA DSA.
+
+- 💬 My Personal motive is to give my full potential to build my self as a Professional Software Developer Engineer.
+
+- ⚡ Learning Data Structure Algorithms and Web Developement.
+
+- Skills: JAVA | MySQL | Data Structure | Algorithms | Linux
+
+- 📫 How to reach me **ashuyad63@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuuydv" alt="ashuuydv" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashuu_ydv" target="blank"><img src="https://img.shields.io/twitter/follow/ashuu_ydv?logo=twitter&style=for-the-badge" alt="ashuu_ydv" /></a> </p>
-
-- 🌱 I’m currently learning **Data structures and Algorithms**
-
-- 💬 Ask me about **C++, JAVA, MySQL**
-
-- 📫 How to reach me **ashuyad63@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
