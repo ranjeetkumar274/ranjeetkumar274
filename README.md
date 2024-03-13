@@ -14,11 +14,14 @@
 - 💬 My Personal motive is to give my full potential to build my self as a Professional Software Developer Engineer.
 
 - ⚡ Learning Data Structure Algorithms and Web Developement.
-
-- Skills: JAVA | MySQL | Data Structure | Algorithms | Linux
-
+  
 - 📫 How to reach me **ashuyad63@gmail.com**
 
+<h2>Skills: 
+</h2>JAVA | MySQL | Data Structure | Algorithms | Linux
+
+<h2>Trophies: 
+</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuuydv" alt="ashuuydv" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ashuu_ydv" target="blank"><img src="https://img.shields.io/twitter/follow/ashuu_ydv?logo=twitter&style=for-the-badge" alt="ashuu_ydv" /></a> </p>
