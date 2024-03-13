@@ -9,7 +9,7 @@
 
 - 🔭 I am pursuing masters in Computer Application (MCA) from MMMUT Gorakhpur.
 
-- 🔭 I am really passionate about Web Developement and JAVA DSA.
+- 🔭 I am really passionate aboutJAVA DSA and Web Developement.
 
 - 💬 My Personal motive is to give my full potential to build my self as a Professional Software Developer Engineer.
 
