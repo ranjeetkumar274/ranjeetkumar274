@@ -9,7 +9,7 @@
 <h2>About :
 </h2>
 
-- 🔭 I am pursuing masters in Computer Application (MCA) from MMMUT Gorakhpur.
+- 🔭 I am pursuing Masters in Computer Application (MCA) from MMMUT Gorakhpur.
 
 - 🔭 I am really passionate about JAVA DSA and Web Developement.
 
