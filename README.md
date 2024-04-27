@@ -22,7 +22,7 @@
 <h2>Skills : 
 </h2>JAVA | MySQL | Data Structure | Algorithms | Linux |
 
-<h2>Trophies : 
+<h2> Trophies : 
 </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashuuydv" alt="ashuuydv" /></a> </p>
 
