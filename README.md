@@ -45,4 +45,4 @@
 ![](https://i.imgur.com/waxVImv.png)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashuuydv&show_icons=true&locale=en" alt="ashuuydv" /></p>
 
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![](https://leetcard.ashuuydv.cool/lapor?ext=heatmap)
