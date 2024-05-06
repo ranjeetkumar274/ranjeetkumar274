@@ -20,7 +20,7 @@
 - 📫 How to reach me **ashuyad63@gmail.com**
 
 <h2>Skills : 
-</h2>JAVA | MySQL | Data Structure | Algorithms | Linux |
+</h2>JAVA | C++ | HTML & CSS | JavaScript | MySQL | Data Structure | Algorithms | Linux |
 
 <h2> Trophies : 
 </h2>
