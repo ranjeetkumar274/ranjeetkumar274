@@ -15,7 +15,7 @@
 
 - ⚡ Learning Data Structure Algorithms and Web Developement.
   
-- 📫 How to reach me **ashuyad63@gmail.com**
+- 📫 How to reach me **ranjeet639760@gmail.com**
 
 <h2>Skills : 
 </h2>JAVA | C++ | HTML & CSS | JavaScript | MySQL | Data Structure | Algorithms | Linux |
