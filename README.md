@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm RANJEET KUMAR</h1>
+<h1 align="center"> Hello 👋, I'm RANJEET KUMAR</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
 ![](https://i.imgur.com/waxVImv.png)
