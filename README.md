@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+🚀;FullStack+Java+Developer+💻;100-Day+LeetCode+Streak+🔥;District+Topper+UP+Board+🏆;Gaming+Content+Creator+🎮;Open+to+Work+💼)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!+🚀;FullStack+Java+Developer+💻;100-Day+LeetCode+Streak+🔥;District+Topper+UP+Board+🏆;Problem+Solving+Enthusiast+🧩;Open+to+Work+💼)](https://git.io/typing-svg)
   
 </div>
 
@@ -12,7 +12,10 @@
 
 ## 🚀 About Me
 
+
+
 public class RanjeetKumar {
+
 private String name = "Ranjeet Kumar";
 private String location = "Ujhani, Uttar Pradesh, India";
 private String education = "MCA - Madan Mohan Malaviya University of Technology";
@@ -21,11 +24,11 @@ private String[] lookingFor = {"Java Developer Role", "Backend Engineer", "Full-
 private boolean openToWork = true;
 
 public String getAchievements() {
-    return "🏆 District Topper UP Board | 100-Day LeetCode Streak ";
+    return "🏆 District Topper UP Board | 100-Day LeetCode Streak | Honored by CM Yogi Adityanath";
 }
 
 public String[] getHobbies() {
-    return new String[]{ "Problem Solving", "Learning New Technologies"};
+    return new String[]{"Problem Solving", "Learning New Technologies", "Coding Projects"};
 }
 }
 
@@ -33,6 +36,8 @@ public String[] getHobbies() {
 - 🎓 **Fresh MCA Graduate** (May 2025) from **MMMUT Gorakhpur**
 - 💼 **Actively seeking Java Developer opportunities**
 - 🔥 **100-Day LeetCode Coding Streak** completed
+- 🌱 **Continuous Learning** in Full-Stack Development
+- 📍 **Based in Ujhani, Uttar Pradesh**
 
 ---
 
@@ -63,14 +68,14 @@ public String[] getHobbies() {
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RanjeetKumar&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFD23F&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RanjeetKumar&theme=synthwave&hide_border=true&background=0D1117&ring=FF6B35&fire=FFD23F&currStreakLabel=FF6B35" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B35&icon_color=FFD23F&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetkumar274&theme=synthwave&hide_border=true&background=0D1117&ring=FF6B35&fire=FFD23F&currStreakLabel=FF6B35" />
   
 </div>
 
 <div align="center">
   
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjeetKumar&layout=compact&theme=synthwave&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar274&layout=compact&theme=synthwave&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" />
   
 </div>
 
@@ -81,6 +86,7 @@ public String[] getHobbies() {
 <div align="center">
 
 ### 🎯 **Academic Excellence**
+- 🥇 **District Topper** - UP Board High School Exams
 - 🎓 **MCA Graduate** - Madan Mohan Malaviya University of Technology, Gorakhpur
 - 📚 **Mathematics Graduate** - Mahatma Jyotiba Phule Rohilkhand University, Bareilly
 - 🏅 **Honored by Hon'ble CM Shri Yogi Adityanath Ji**
@@ -89,6 +95,7 @@ public String[] getHobbies() {
 - ⚡ **100-Day LeetCode Coding Streak** - Consistent Problem Solving
 - 🔥 **FullStack Java Development** - Hands-on Project Experience
 - 🛠️ **Professional Tools Mastery** - Eclipse, STS, Git, GitHub, Notion
+- 🌱 **Continuous Learning** - Always exploring new technologies
 
 </div>
 
@@ -99,12 +106,12 @@ public String[] getHobbies() {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/ranjeet-kumar)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://youtube.com/@ranjeet-gaming)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116)](https://leetcode.com/ranjeetkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-8E44AD?style=for-the-badge&logo=github&logoColor=white&labelColor=8E44AD)](https://github.com/RanjeetKumar)
+[![GitHub](https://img.shields.io/badge/GitHub-8E44AD?style=for-the-badge&logo=github&logoColor=white&labelColor=8E44AD)](https://github.com/ranjeetkumar274)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:ranjeet.kumar@email.com)
 
 **📧 Email:** ranjeet.kumar@email.com  
+**📍 Location:** Ujhani, Uttar Pradesh, India  
 **💼 Status:** Open to Java Developer Opportunities
 
 </div>
@@ -114,6 +121,7 @@ public String[] getHobbies() {
 ## 💡 Fun Facts
 
 <div align="center">
+
 
 while(alive) {
 eat();
