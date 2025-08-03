@@ -13,8 +13,6 @@
 ## 🚀 About Me
 
 public class RanjeetKumar {
-
-text
 private String name = "Ranjeet Kumar";
 private String location = "Ujhani, Uttar Pradesh, India";
 private String education = "MCA - Madan Mohan Malaviya University of Technology";
@@ -23,22 +21,18 @@ private String[] lookingFor = {"Java Developer Role", "Backend Engineer", "Full-
 private boolean openToWork = true;
 
 public String getAchievements() {
-    return "🏆 District Topper UP Board | 100-Day LeetCode Streak | Honored by CM Yogi Adityanath";
+    return "🏆 District Topper UP Board | 100-Day LeetCode Streak ";
 }
 
 public String[] getHobbies() {
-    return new String[]{"Gaming Content Creation", "Problem Solving", "Learning New Technologies"};
+    return new String[]{ "Problem Solving", "Learning New Technologies"};
 }
 }
-
-text
 
 ### 🎯 **Current Status**
 - 🎓 **Fresh MCA Graduate** (May 2025) from **MMMUT Gorakhpur**
 - 💼 **Actively seeking Java Developer opportunities**
 - 🔥 **100-Day LeetCode Coding Streak** completed
-- 🎮 **Gaming Content Creator** on YouTube
-- 📍 **Based in Ujhani, Uttar Pradesh**
 
 ---
 
@@ -87,7 +81,6 @@ text
 <div align="center">
 
 ### 🎯 **Academic Excellence**
-- 🥇 **District Topper** - UP Board High School Exams
 - 🎓 **MCA Graduate** - Madan Mohan Malaviya University of Technology, Gorakhpur
 - 📚 **Mathematics Graduate** - Mahatma Jyotiba Phule Rohilkhand University, Bareilly
 - 🏅 **Honored by Hon'ble CM Shri Yogi Adityanath Ji**
@@ -96,10 +89,6 @@ text
 - ⚡ **100-Day LeetCode Coding Streak** - Consistent Problem Solving
 - 🔥 **FullStack Java Development** - Hands-on Project Experience
 - 🛠️ **Professional Tools Mastery** - Eclipse, STS, Git, GitHub, Notion
-
-### 🎮 **Content Creation**
-- 📺 **YouTube Gaming Channel** - PUBG & PC Games Content
-- 🚀 **Growing Gaming Community** - Exponential Growth Target
 
 </div>
 
@@ -116,7 +105,6 @@ text
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:ranjeet.kumar@email.com)
 
 **📧 Email:** ranjeet.kumar@email.com  
-**📍 Location:** Ujhani, Uttar Pradesh, India  
 **💼 Status:** Open to Java Developer Opportunities
 
 </div>
@@ -136,9 +124,7 @@ sleep();
 repeat();
 }
 
-text
 
-- 🎮 **Gaming Enthusiast** - Creating content for PUBG and PC games
 - 🧩 **Problem Solver** - Love tackling challenging algorithms
 - 🌱 **Continuous Learner** - Always exploring new technologies
 - 🤝 **Team Player** - Passionate about collaboration and teamwork
