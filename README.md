@@ -1,5 +1,3 @@
 <p align="center">
-  <img src="SANHOK (2).png" alt="Milestone Roadmap" width="600"/>
+  <img src="https://raw.githubusercontent.com/ranjeetkumar274/ranjeetkumar274/main/SANHOK%20(2).png" alt="Milestone Roadmap" />
 </p>
-
-
