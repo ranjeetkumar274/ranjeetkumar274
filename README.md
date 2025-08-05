@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🎯 I'm currently working on - Full-stack Java development projects.<br><br>👥 I'm looking to collaborate on - Open source Java projects.<br><br>🤝 I'm looking for help with - Landing my first Java Developer role as a fresher in a good company<br><br>🌱 I'm currently learning - Full-Stack Java Development using STS, Git, and GitHub<br>
+🎯 I'm currently working on - Full-stack Java development projects.<br>👥 I'm looking to collaborate on - Open source Java projects.<br>🤝 I'm looking for help with - Landing my first Java Developer role as a fresher in a good company<br>🌱 I'm currently learning - Full-Stack Java Development using STS, Git, and GitHub<br>
 
 
 ## 🌐 Socials:
