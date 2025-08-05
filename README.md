@@ -13,5 +13,7 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ranjeetkumar274&theme=transparent&hide_border=true)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" height="180em" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ranjeetkumar274&theme=transparent&hide_border=true" height="180em" />
+</div>
