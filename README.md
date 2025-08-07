@@ -1,7 +1,7 @@
 # Hey There! 👋
-**I'm Thijs** - I'm a fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
+**I'm Ranjeet** - I'm a Java fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
 
-Check out my [portfolio](https://thijs.gg).
+Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
 
 <p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
@@ -19,7 +19,7 @@ Check out my [portfolio](https://thijs.gg).
 </p>
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  Github Stats ⚡
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar274&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
