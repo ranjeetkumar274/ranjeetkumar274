@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ranjeetkumar274/ranjeetkumar274/main/SANHOK%20(2).png" alt="Milestone Roadmap" />
-</p>
+# Hey There! 👋
+**I'm Thijs** - I'm a fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
 
+Check out my [portfolio](https://thijs.gg).
 
-# 💫 About Me:
-🎯 I'm currently working on - Full-stack Java development projects.<br>👥 I'm looking to collaborate on - Open source Java projects.<br>🤝 I'm looking for help with - Landing my first Java Developer role as a fresher in a good company<br>🌱 I'm currently learning - Full-Stack Java Development using STS, Git, and GitHub<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjeetkumar274) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Much_Intention_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjeet639760@gmail.com) 
-
-# 💻 Tech Stack:
 <p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>&nbsp;&nbsp;
@@ -25,9 +17,15 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="eclipse" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="sts" width="50" height="50"/>
 </p>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" height="180em" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ranjeetkumar274&theme=transparent&hide_border=true" height="180em" />
-</div>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar274&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
