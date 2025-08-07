@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Ranjeet** - I'm a Java fullstack developer, maker, and Stanford student. I work on a ton of random projects in my free time.
+**I'm Ranjeet** - I'm a Java fullstack developer, maker, and MMMUT, Gorakhpur (MCA'25) student. I work on a ton of random projects in my free time.
 
 Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
 
