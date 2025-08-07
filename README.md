@@ -18,10 +18,10 @@ Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" alt="sts" width="50" height="50"/>
 </p>
 
-<details>
-  Github Stats ⚡
+
+  <summary> Github Stats ⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar274&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+
 
