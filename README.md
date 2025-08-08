@@ -27,7 +27,7 @@ Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
 
 ## 📝 Read My Blogs
 
-👉 [**Read my blogs here**](https://your-blog-link.com) — I share insights, tutorials, and developer stories.
+👉 [**Read my blogs here**](https://abit.hashnode.dev/) — I share insights, tutorials, and developer stories.
 
 [![Read My Blog](https://img.shields.io/badge/Visit-Blog-blue?style=for-the-badge&logo=hashnode)](https://abit.hashnode.dev/)
 [![Reddit](https://img.shields.io/badge/Join-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Much_Intention_/)
