@@ -30,4 +30,7 @@ Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
 👉 [**Read my blogs here**](https://your-blog-link.com) — I share insights, tutorials, and developer stories.
 
 [![Read My Blog](https://img.shields.io/badge/Visit-Blog-blue?style=for-the-badge&logo=hashnode)](https://your-blog-link.com)
+[![Reddit](https://img.shields.io/badge/Join-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-reddit-username)
+[![Slack](https://img.shields.io/badge/Chat-Slack-4A154B?style=for-the-badge&logo=slack)](https://your-slack-invite-or-workspace-link)
+[![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow-id)
 
