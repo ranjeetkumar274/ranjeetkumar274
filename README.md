@@ -25,3 +25,9 @@ Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar274&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 
+## 📝 Read My Blogs
+
+👉 [**Read my blogs here**](https://your-blog-link.com) — I share insights, tutorials, and developer stories.
+
+[![Read My Blog](https://img.shields.io/badge/Visit-Blog-blue?style=for-the-badge&logo=hashnode)](https://your-blog-link.com)
+
