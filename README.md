@@ -24,13 +24,5 @@ Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar274&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-
-## 📝 Read My Blogs
-
-👉 [**Read my blogs here**](https://abit.hashnode.dev/) — I share insights, tutorials, and developer stories.
-
-[![Read My Blog](https://img.shields.io/badge/Visit-Blog-blue?style=for-the-badge&logo=hashnode)](https://abit.hashnode.dev/)
 [![Reddit](https://img.shields.io/badge/Join-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Much_Intention_/)
-[![Slack](https://img.shields.io/badge/Chat-Slack-4A154B?style=for-the-badge&logo=slack)](https://join.slack.com/t/abitjavafullstack/shared_invite/zt-3b07dzfuu-e5eIRcGrXs_I1LWwgmY_lw)
-[![Stack Overflow](https://img.shields.io/badge/Profile-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31239459/ranjeet-kumar)
 
