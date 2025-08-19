@@ -13,12 +13,10 @@ Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Eclipse-Light.svg" alt="eclipse" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="50" height="50"/>&nbsp;&nbsp;
-  
+ 
 </p>
 
 
