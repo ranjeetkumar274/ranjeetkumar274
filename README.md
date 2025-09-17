@@ -19,11 +19,5 @@ Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
  
 </p>
 
-
-  <summary> Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ranjeetkumar274&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetkumar274&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
 [![Reddit](https://img.shields.io/badge/Join-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Much_Intention_/)
 
