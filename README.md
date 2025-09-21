@@ -1,4 +1,4 @@
-# Hey There! 👋
+## Hey There! 👋
 **I'm Ranjeet** - I'm a Java Backend developer, maker, and MMMUT, Gorakhpur (MCA'25) student. I work on a ton of random projects in my free time.
 
 Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
