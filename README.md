@@ -1,7 +1,7 @@
 ## Hey There! 👋
 **I'm Ranjeet** - I'm a Software Engineer @LTM, DotNET FullStack Developer, and MMMUT, Gorakhpur (MCA'25) student.
 
-Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-fawn-90.vercel.app/)
 
 <p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="cs" width="50" height="50"/>&nbsp;&nbsp;
@@ -18,6 +18,8 @@ Check out my [portfolio](https://portfolio-five-fawn-90.vercel.app/).
  
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjeetkumar274/)
+![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader)
+
 
 
