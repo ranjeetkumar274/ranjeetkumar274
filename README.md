@@ -1,5 +1,5 @@
 ## Hey There! 👋
-**I'm Ranjeet** - I'm a Software Engineer @LTM, DotNET FullStack Developer, and MMMUT, Gorakhpur (MCA'25) student.
+**I'm Ranjeet** - I'm a Software Engineer @LTM, Officially trained in DotNET FullStack, and MMMUT, Gorakhpur (MCA'25) student.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-fawn-90.vercel.app/)
 
