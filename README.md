@@ -4,6 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-fawn-90.vercel.app/)
 
 <p align="center"> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="cs" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".net" width="50" height="50"/>&nbsp;&nbsp;
@@ -14,7 +15,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>&nbsp;&nbsp;
+  
  
 </p>
 
